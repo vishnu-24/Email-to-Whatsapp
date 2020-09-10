@@ -26,7 +26,7 @@ Install libraries and Execute
 
 Note:Make sure you have internet conection
 
-Note:Try making the program triggering using wayscript
+Note:Try auto triggering the script using wayscript
 
 Contact details:
 
