@@ -107,8 +107,8 @@ def result(output,reciver):
              return 1
         else:
         
-            account_sid = 'AC079f1f894a5b234a7fac747d61c34840'
-            auth_token = 'a6a87c63e2c37602f4a0a5b72a8f6ee4'
+            account_sid = 'Your twilio sid'
+            auth_token = 'your twilio Token'
             client = Client(account_sid, auth_token)
                                       
             if (output[3]==1 and output[4]==1):
@@ -155,7 +155,7 @@ def login(username,password,reciver):
         except Exception as e:
             print("Invalid creadenticals for:",username)
         else:
-            imap.select("[Gmail]/Important")
+            imap.select("[Gmail]/Important") #if u want to select inbox use:imap.select("Inbox")
             status, messages = imap.search(None, '(UNSEEN)')
             if(status=="OK"):
                 mail_ids =messages[0]
@@ -189,8 +189,7 @@ def login(username,password,reciver):
             
 if __name__=="__main__":
     
-    users=["sanjaykumar.it19@bitsathy.ac.in","vishnu11","+919123551197","vishnuram.cb19@bitsathy.ac.in","AF_vishnu","+919361598903","dharunya.cb19@bitsathy.ac.in",
-           "AbCd_1234","+919486123809"]   
+    users=["emailid1","password1","Phonenumber"]#you can add multiple user details in this list
     for x in range(0,len(users),3):
         login(users[x],users[x+1],users[x+2])
 
