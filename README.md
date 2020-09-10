@@ -14,7 +14,7 @@ Process before execution:
 
 Now all set lets go to execution of the program
 
-#install libraries and Execute
+Install libraries and Execute
 
 1.Use 'requirements.txt' file to install the required packages
 
@@ -22,10 +22,10 @@ Now all set lets go to execution of the program
 
 3.Fell free to edit and use the program
 
-4.If any query contact my email
+4.If any query contact my mail
 
 Note:Make sure you have internet conection
-Note:Try making the program triggering using wayscript(
+Note:Try making the program triggering using wayscript
 
 Contact details:
 
