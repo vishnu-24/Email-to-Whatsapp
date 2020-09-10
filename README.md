@@ -25,12 +25,13 @@ Install libraries and Execute
 4.If any query contact my mail
 
 Note:Make sure you have internet conection
+
 Note:Try making the program triggering using wayscript
 
 Contact details:
 
-mail:vishnuram.cb19@bitsathy.ac.in
+mail:dharunya.cb19@bitsathy.ac.in
 
 mail:sanjaykumar.it19@bitsathy.ac.in
 
-
+mail:vishnuram.cb19@bitsathy.ac.in
