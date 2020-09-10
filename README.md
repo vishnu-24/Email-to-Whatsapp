@@ -27,8 +27,10 @@ Now all set lets go to execution of the program
 Note:Make sure you have internet conection
 Note:Try making the program triggering using wayscript(
 
-#contact details
+Contact details:
+
 mail:vishnuram.cb19@bitsathy.ac.in
+
 mail:sanjaykumar.it19@bitsathy.ac.in
 
 
