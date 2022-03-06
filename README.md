@@ -1,4 +1,4 @@
-# Lazy
+# Email-to-Whatsapp
 Description:
   If you are really lazy to go to your email and check for new mail, then you can use this program to get your emails to your whats app number
 
